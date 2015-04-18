@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: BoxBilling - Admin pt_BR 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-02-12 22:48-0300\n"
-"Last-Translator: Luciano <tonetlds@gmail.com>\n"
+"PO-Revision-Date: 2015-04-18 01:17-0300\n"
+"Last-Translator: Diego Maiochi <diego@maiochi.eti.br>\n"
 "Language-Team: Luciano Tonet <contato@lucianotonet.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -12,7 +12,8 @@ msgstr ""
 "X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Generator: Poedit 1.5.5\n"
+"X-Generator: Poedit 1.6.4\n"
+"Language: pt_BR\n"
 
 msgid "Language"
 msgstr "Idioma"
@@ -678,7 +679,7 @@ msgid "Execute scheduled tasks from browser"
 msgstr ""
 
 msgid "Execute now"
-msgstr ""
+msgstr "Executar Agora"
 
 msgid ""
 "After purchase you have received an e-mail with license key. Update license "
@@ -721,7 +722,7 @@ msgid "Draft"
 msgstr ""
 
 msgid "Content"
-msgstr ""
+msgstr "Conteúdo"
 
 msgid "Edit product addon"
 msgstr ""
@@ -733,40 +734,40 @@ msgid "Queues"
 msgstr ""
 
 msgid "Extension"
-msgstr ""
+msgstr "Extensão"
 
 msgid "Messages"
-msgstr ""
+msgstr "Mensagens"
 
 msgid "Created"
-msgstr ""
+msgstr "Criado"
 
 msgid "The list is empty."
 msgstr ""
 
 msgid "Domain details"
-msgstr ""
+msgstr "Detalhes do domínio"
 
 msgid "Domain"
-msgstr ""
+msgstr "Domínio"
 
 msgid "Registrar"
-msgstr ""
+msgstr "Registrar"
 
 msgid "Nameserver 1"
-msgstr ""
+msgstr "DNS 1"
 
 msgid "Nameserver 2"
-msgstr ""
+msgstr "DNS 2"
 
 msgid "Nameserver 3"
-msgstr ""
+msgstr "DNS 3"
 
 msgid "Nameserver 4"
-msgstr ""
+msgstr "DNS 4"
 
 msgid "Transfer code"
-msgstr ""
+msgstr "Código de transferência"
 
 msgid "Privacy protected"
 msgstr ""
@@ -793,34 +794,34 @@ msgid "Enable privacy protection"
 msgstr ""
 
 msgid "Nameservers"
-msgstr ""
+msgstr "DNS's"
 
 msgid "Update domain contact details"
 msgstr ""
 
 msgid "First Name"
-msgstr ""
+msgstr "Primeiro Nome"
 
 msgid "Last Name"
-msgstr ""
+msgstr "Último Nome"
 
 msgid "Zip"
-msgstr ""
+msgstr "CEP"
 
 msgid "Phone Country Code"
-msgstr ""
+msgstr "Código telefonico do País"
 
 msgid "Phone number"
-msgstr ""
+msgstr "Número telefone"
 
 msgid "System activity"
-msgstr ""
+msgstr "Atividades do sistema"
 
 msgid "Message"
-msgstr ""
+msgstr "Mensagem"
 
 msgid "Ip"
-msgstr ""
+msgstr "IP"
 
 msgid "Are you sure?"
 msgstr ""
@@ -835,7 +836,7 @@ msgid "Reset template"
 msgstr ""
 
 msgid "Examples"
-msgstr ""
+msgstr "Exemplos"
 
 msgid "Manage email template"
 msgstr ""
@@ -857,7 +858,7 @@ msgid "Enable or disable this email template."
 msgstr ""
 
 msgid "Enabled"
-msgstr ""
+msgstr "Habilitar"
 
 msgid "List of variables used in this email"
 msgstr ""
@@ -871,7 +872,7 @@ msgid "Variable"
 msgstr ""
 
 msgid "Example value"
-msgstr ""
+msgstr "Exemplo de valor"
 
 msgid "This template does not receive any parameters"
 msgstr ""
@@ -896,7 +897,7 @@ msgid "Manage"
 msgstr ""
 
 msgid "Forum"
-msgstr ""
+msgstr "Fórum"
 
 msgid "Started by"
 msgstr ""
@@ -908,10 +909,10 @@ msgid "Sticky"
 msgstr ""
 
 msgid "Created at"
-msgstr ""
+msgstr "Criado em"
 
 msgid "Updated at"
-msgstr ""
+msgstr "Atualizado em"
 
 msgid "Reply"
 msgstr ""
@@ -920,13 +921,13 @@ msgid "Quote"
 msgstr ""
 
 msgid "Post"
-msgstr ""
+msgstr "Post"
 
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 msgid "Transactions"
-msgstr ""
+msgstr "Transações"
 
 msgid "Filter transactions"
 msgstr ""
@@ -941,19 +942,19 @@ msgid "Payment Gateway"
 msgstr ""
 
 msgid "Received at"
-msgstr ""
+msgstr "Recebido em"
 
 msgid "Filter"
-msgstr ""
+msgstr "Filtro"
 
 msgid "Processed"
-msgstr ""
+msgstr "Processado"
 
 msgid "Approved"
-msgstr ""
+msgstr "Aprovado"
 
 msgid "Error"
-msgstr ""
+msgstr "Erro"
 
 msgid "Gateway"
 msgstr ""
@@ -1224,13 +1225,13 @@ msgid "Articles"
 msgstr ""
 
 msgid "New article"
-msgstr ""
+msgstr "Novo artigo"
 
 msgid "New category"
-msgstr ""
+msgstr "Nova categorias"
 
 msgid "Manage categories"
-msgstr ""
+msgstr "Gerenciar categorias"
 
 msgid "Category created"
 msgstr ""
@@ -1356,7 +1357,7 @@ msgid ""
 msgstr ""
 
 msgid "Upload new file"
-msgstr ""
+msgstr "Enviar novo arquivo"
 
 msgid "Upload"
 msgstr ""
@@ -1392,7 +1393,7 @@ msgid "Manage groups"
 msgstr ""
 
 msgid "New group"
-msgstr ""
+msgstr "Novo grupo"
 
 msgid "Inactive"
 msgstr ""
@@ -1440,10 +1441,10 @@ msgid "Forums"
 msgstr ""
 
 msgid "New topic"
-msgstr ""
+msgstr "Novo tópico"
 
 msgid "New forum"
-msgstr ""
+msgstr "Novo fórum"
 
 msgid "Replies"
 msgstr ""
@@ -1531,7 +1532,7 @@ msgid "Has order"
 msgstr ""
 
 msgid "Message content"
-msgstr ""
+msgstr "Conteúdo da mensagem"
 
 msgid "Update and preview"
 msgstr ""
@@ -1632,7 +1633,7 @@ msgid "After payment is received"
 msgstr ""
 
 msgid "Manual activation"
-msgstr ""
+msgstr "Ativação manual"
 
 msgid "Tld management"
 msgstr ""
@@ -1680,13 +1681,13 @@ msgid "Max uses (zero for unlimited)"
 msgstr ""
 
 msgid "Used"
-msgstr ""
+msgstr "Usado"
 
 msgid "Period when code is valid"
 msgstr ""
 
 msgid "Products"
-msgstr ""
+msgstr "Produtos"
 
 msgid "Periods (Select none to apply to all periods)"
 msgstr ""
@@ -1695,25 +1696,25 @@ msgid "Max Addon domains"
 msgstr ""
 
 msgid "Max FTP accounts"
-msgstr ""
+msgstr "Max contas FTP"
 
 msgid "Max SQL Databases"
-msgstr ""
+msgstr "Max. bases SQL"
 
 msgid "Max Email Accounts"
-msgstr ""
+msgstr "Max. contas de Email"
 
 msgid "Max Subdomains"
-msgstr ""
+msgstr "Máx. Subdomínios"
 
 msgid "Max Parked Domains"
-msgstr ""
+msgstr "Máx. domínios estacionados"
 
 msgid "Server manager specific parameters"
 msgstr ""
 
 msgid "Update hosting plan"
-msgstr ""
+msgstr "Atualizar plano de hospedagem"
 
 msgid "Hosting plan additional parameters"
 msgstr ""
@@ -1731,10 +1732,10 @@ msgid "Pending approval"
 msgstr ""
 
 msgid "Affiliates"
-msgstr ""
+msgstr "Afiliados"
 
 msgid "Clicks"
-msgstr ""
+msgstr "Cliques"
 
 msgid "Joined at"
 msgstr ""
@@ -1762,10 +1763,10 @@ msgid ""
 msgstr ""
 
 msgid "Hosting settings"
-msgstr ""
+msgstr "Configurações da hospedagem"
 
 msgid "Hosting plan"
-msgstr ""
+msgstr "Plano de hospedagem"
 
 msgid "Reseller hosting"
 msgstr ""
@@ -1777,13 +1778,13 @@ msgid "Free domain transfer"
 msgstr ""
 
 msgid "Hosting plans"
-msgstr ""
+msgstr "Planos de hospedagem"
 
 msgid "Servers"
-msgstr ""
+msgstr "Servidores"
 
 msgid "Statistics"
-msgstr ""
+msgstr "Estatísticas"
 
 msgid "Website statistic"
 msgstr ""
@@ -1819,7 +1820,7 @@ msgid "New server"
 msgstr ""
 
 msgid "New hosting plan"
-msgstr ""
+msgstr "Novo plano de hospedagem"
 
 msgid "New server manager"
 msgstr ""
@@ -1831,7 +1832,7 @@ msgid "Unique name to identify this server"
 msgstr ""
 
 msgid "server1.yourserverdomain.com"
-msgstr ""
+msgstr "ns1.seudominio.com.br"
 
 msgid ""
 "Primary IP address of the server used to connect to it like: 123.123.123.123"
@@ -1844,16 +1845,16 @@ msgid "List the IP Addresses assigned to the server (One per line)"
 msgstr ""
 
 msgid "ns1.yourdomain.com"
-msgstr ""
+msgstr "ns1.seudominio.com.br"
 
 msgid "ns2.yourdomain.com"
-msgstr ""
+msgstr "ns2.seudominio.com.br"
 
 msgid "ns3.yourdomain.com"
-msgstr ""
+msgstr "ns3.seudominio.com.br"
 
 msgid "ns4.yourdomain.com"
-msgstr ""
+msgstr "ns4.seudominio.com.br"
 
 msgid "Login username to your server: root/reseller"
 msgstr ""
@@ -1865,10 +1866,10 @@ msgid "Access Hash (Insted of password for cPanel servers)"
 msgstr ""
 
 msgid "Add server"
-msgstr ""
+msgstr "Adicionar servidor"
 
 msgid "Adding new hosting plan"
-msgstr ""
+msgstr "Adicionar novo plano de hospedagem"
 
 msgid ""
 "Depending on server manager used to setup hosting account you may require "
@@ -1953,7 +1954,7 @@ msgid "Valid period"
 msgstr ""
 
 msgid "Usage"
-msgstr ""
+msgstr "Usado"
 
 msgid "Create special offers for your clients by creating coupon codes."
 msgstr ""
@@ -1962,7 +1963,7 @@ msgid "Absolute"
 msgstr ""
 
 msgid "Percentage"
-msgstr ""
+msgstr "Porcentagem"
 
 msgid "Valid time (Leave blank for undefined time)"
 msgstr ""
@@ -1977,10 +1978,10 @@ msgid "Clients logins history"
 msgstr ""
 
 msgid "Search:"
-msgstr ""
+msgstr "Busca:"
 
 msgid "Enter search text.."
-msgstr ""
+msgstr "Digite o texto para a busca..."
 
 msgid "Membership details"
 msgstr ""
@@ -2007,16 +2008,16 @@ msgid "Console user / password"
 msgstr ""
 
 msgid "Client area"
-msgstr ""
+msgstr "Área do cliente"
 
 msgid "Admin area"
-msgstr ""
+msgstr "Área administrativa"
 
 msgid "Change root password"
 msgstr ""
 
 msgid "New password"
-msgstr ""
+msgstr "Nova senha"
 
 msgid "Change"
 msgstr ""
@@ -2031,31 +2032,31 @@ msgid "Change plan"
 msgstr ""
 
 msgid "New plan"
-msgstr ""
+msgstr "Novo plano"
 
 msgid "Rebuild"
 msgstr ""
 
 msgid "New template"
-msgstr ""
+msgstr "Novo modelo"
 
 msgid "Usage statistics"
-msgstr ""
+msgstr "Estatísticas de uso"
 
 msgid "Free"
-msgstr ""
+msgstr "Grátis"
 
 msgid "Memory"
-msgstr ""
+msgstr "Memória"
 
 msgid "Disk usage"
-msgstr ""
+msgstr "Utilização do disco"
 
 msgid "Traffic"
-msgstr ""
+msgstr "Tráfego"
 
 msgid "Load"
-msgstr ""
+msgstr "Carregar"
 
 msgid ""
 "Master node is offline, order is not yet activated or API is not configured "
@@ -2119,7 +2120,7 @@ msgid "New response"
 msgstr ""
 
 msgid "Categories"
-msgstr ""
+msgstr "Categorias"
 
 msgid "Example extension settings"
 msgstr ""
@@ -2139,7 +2140,7 @@ msgid "New note"
 msgstr ""
 
 msgid "Delete all messages"
-msgstr ""
+msgstr "Apagar todas as mensagens"
 
 msgid "Add note or todo task"
 msgstr ""
@@ -2184,13 +2185,13 @@ msgid "Register new server"
 msgstr ""
 
 msgid "Edit server"
-msgstr ""
+msgstr "Editar servidor"
 
 msgid "CentovaCast URL"
 msgstr ""
 
 msgid "Administrator password"
-msgstr ""
+msgstr "Seha do administrador"
 
 msgid "Register Centova Cast server"
 msgstr ""
@@ -2202,10 +2203,10 @@ msgid "Create CentovaCast product"
 msgstr ""
 
 msgid "Email templates"
-msgstr ""
+msgstr "Modelo de email"
 
 msgid "Email settings"
-msgstr ""
+msgstr "Configurações de email"
 
 msgid ""
 "The list is empty. Depending on modules enabled email templates will be "
@@ -2213,7 +2214,7 @@ msgid ""
 msgstr ""
 
 msgid "Configure email options"
-msgstr ""
+msgstr "Configurar opções de email"
 
 msgid ""
 "BoxBilling sends emails using <em>sendmail</em> by default or you can "
@@ -2260,7 +2261,7 @@ msgid "Action code"
 msgstr ""
 
 msgid "Number"
-msgstr ""
+msgstr "Número"
 
 msgid "Due at"
 msgstr ""
@@ -2287,10 +2288,10 @@ msgid "Company Number"
 msgstr ""
 
 msgid "First name"
-msgstr ""
+msgstr "Primeiro nome"
 
 msgid "Last name"
-msgstr ""
+msgstr "Último nome"
 
 msgid "Invoice items"
 msgstr ""
@@ -2302,10 +2303,10 @@ msgid "Transaction ID"
 msgstr ""
 
 msgid "Print"
-msgstr ""
+msgstr "Imprimir"
 
 msgid "Delete"
-msgstr ""
+msgstr "Apagar"
 
 msgid "Client area themes"
 msgstr ""
@@ -2314,7 +2315,7 @@ msgid "Admin area themes"
 msgstr ""
 
 msgid "New theme"
-msgstr ""
+msgstr "Novo tema"
 
 msgid "Adding new client area theme"
 msgstr ""
@@ -2405,10 +2406,10 @@ msgid "All"
 msgstr ""
 
 msgid "New client"
-msgstr ""
+msgstr "Novo cliente"
 
 msgid "Groups"
-msgstr ""
+msgstr "Grupos"
 
 msgid "Ticket"
 msgstr ""
@@ -2727,7 +2728,7 @@ msgid "Allow transfer:"
 msgstr ""
 
 msgid "Active:"
-msgstr ""
+msgstr "Ativo:"
 
 msgid "Add new top level domain"
 msgstr ""
@@ -2918,7 +2919,7 @@ msgid "History"
 msgstr ""
 
 msgid "Support"
-msgstr ""
+msgstr "Suporte"
 
 msgid "Payment amount"
 msgstr ""
@@ -3091,10 +3092,10 @@ msgid "Client area languages"
 msgstr ""
 
 msgid "New language"
-msgstr ""
+msgstr "Novo idioma"
 
 msgid "BoxBilling in your language"
-msgstr ""
+msgstr "BoxBilling no seu idioma"
 
 msgid ""
 "Although BoxBilling displays in U.S. English by default, the software has "
@@ -3113,7 +3114,7 @@ msgid ""
 msgstr ""
 
 msgid "Installing BoxBilling in Your Language"
-msgstr ""
+msgstr "Instalar BoxBilling no seu idioma"
 
 msgid ""
 "to learn how to install files that will transform BoxBilling so it displays "
@@ -3127,7 +3128,7 @@ msgid "software"
 msgstr ""
 
 msgid "Changing default language"
-msgstr ""
+msgstr "Alterar idioma padrão"
 
 msgid "Default language can be set in"
 msgstr ""
@@ -3195,19 +3196,19 @@ msgid "Enter your email address"
 msgstr ""
 
 msgid "Enter your password"
-msgstr ""
+msgstr "Digite sua seha"
 
 msgid "Create administrator account"
 msgstr ""
 
 msgid "Remember me"
-msgstr ""
+msgstr "Lembrar"
 
 msgid "Log me in"
 msgstr ""
 
 msgid "Extensions"
-msgstr ""
+msgstr "Extensões"
 
 msgid "Update BoxBilling"
 msgstr ""
@@ -3222,16 +3223,16 @@ msgid "Activate or deactivate extensions"
 msgstr ""
 
 msgid "Deactivate"
-msgstr ""
+msgstr "Desativar"
 
 msgid "Module settings"
-msgstr ""
+msgstr "Configurações dos módulos"
 
 msgid "Hook"
 msgstr ""
 
 msgid "Automatic update"
-msgstr ""
+msgstr "Atualização automática"
 
 msgid ""
 "Automatic updater is a tool to update BoxBilling to latest version in one "
@@ -3240,7 +3241,7 @@ msgid ""
 msgstr ""
 
 msgid "Manual update"
-msgstr ""
+msgstr "Atualizaão manual"
 
 msgid ""
 "Manual update is a solution when auto updater can not work on current "
@@ -3259,4 +3260,4 @@ msgid "File manager"
 msgstr ""
 
 msgid "Full screen"
-msgstr ""
+msgstr "Tela cheia"
